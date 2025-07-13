@@ -11,11 +11,11 @@ Users can explore movies, choose seats, and book tickets. Admins can manage movi
 ### User Features
 -  Authentication via Clerk (Email + Password, Email OTP, Google OAuth)
 -  Browse movie listings
--  Browse real-time movie data from [TMDB](https://www.themoviedb.org/)
 -  Select seats while booking
 -  Receive booking confirmations and reminders via email
 
 ###  Admin Features
+-  Browse real-time movie data from [TMDB](https://www.themoviedb.org/)
 -  Add or remove movies
 -  View all bookings in the dashboard
 
